@@ -1,6 +1,7 @@
 Introduction:
 -----------------
-This is the data analytics project that I have done as a part of IBM aicte internship . In this project, I am going to perform an Exploratory Data Analysis on the Sample Superstore dataset.
+This is the data analytics project that I have done as a part of Project Based Learning/Internship under the IBM SkillsBuild program.
+The program was brought to you by Edunet Founda􀆟on in partnership with AICTE (All India Council for Technical Education). In this project, I am going to perform an Exploratory Data Analysis on the Sample Superstore dataset.
 
 Data set:
 ------------
